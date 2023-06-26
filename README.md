@@ -1,4 +1,2 @@
 # webhook-test
-Hello Sudharsan, testing webhook!
-
-Hello, second time webhook testing.
+Hello Sudharsan, testing webhook! :)D
